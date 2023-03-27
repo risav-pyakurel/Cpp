@@ -14,6 +14,7 @@ This may arise due to dividing by 0, memory space running out or access to array
 TRY(The keyword TRY is used to preface a block of statements that a block of statements may contain exception)
 THROW(When an exception is detected in the block of statements,it is thrown using throw statements as notified by try)
 CATCH(The thrown exception is catched with the help of catch statement)
+something new added by suds
 */
 
 #include <iostream>
